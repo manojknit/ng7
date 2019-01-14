@@ -15,7 +15,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Terminal commands used
-$
+```$
 ng new my-dream-app
 ng serve –open
 ng add @angular/material
@@ -45,7 +45,7 @@ ng build --prod
 run from dist folder
 cd ng7
 http-server -o
-
+```
 
 ## Running unit tests
 
